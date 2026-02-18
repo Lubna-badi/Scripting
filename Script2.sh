@@ -5,4 +5,5 @@ read a
 echo "Value of b"
 read b
 echo "Hello value of a is $a and value of b is $b"
-echo "a and b value"
+echo "a and b value for me
+echo "you are updating the script"
