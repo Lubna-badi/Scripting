@@ -7,3 +7,5 @@ read b
 echo "Hello value of a is $a and value of b is $b"
 echo "a and b value for me
 echo "you are updating the script"
+read a and b
+
