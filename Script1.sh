@@ -5,5 +5,4 @@ echo "I am learning Devops"
 echo "Adding new line"
 echo "this is example of merge conflict"
 echo "this is lubna learning meriging code hub"
-# this is commit message"
-echo "adding the feature1"
+
